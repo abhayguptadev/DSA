@@ -1,0 +1,6 @@
+sorting
+1. selection sort = sabse chota number lete hai or swap krte hai
+2. bubble sort
+3. inerstion sort = 
+4. merge sort
+5. heap sort
